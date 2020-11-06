@@ -66,4 +66,4 @@ Open the application on your browser `127.0.0.1:8000`.
 ## License
 
 * licensed under the [MIT license](LICENSE)  
-* Copyright (c) 2019 **Jeremiah Ngige**
+* Copyright (c) 2020 **Jeremiah Ngige**
