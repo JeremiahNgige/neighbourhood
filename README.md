@@ -65,5 +65,5 @@ Open the application on your browser `127.0.0.1:8000`.
   
 ## License
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/JeremiahNgige/Picture-Globe/blob/master/LICENSE)  
+* licensed under the [MIT license](LICENSE)  
 * Copyright (c) 2019 **Jeremiah Ngige**
