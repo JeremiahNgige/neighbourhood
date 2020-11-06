@@ -23,7 +23,7 @@ To get the project .......
   
 ### Cloning the repository
 
-<https://github.com/JeremiahNgige/neighbourhood.git>
+    <https://github.com/JeremiahNgige/neighbourhood.git>
 
 #### Navigate into the folder and install requirements  
 
